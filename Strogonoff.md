@@ -1,4 +1,4 @@
-#**Strogonof de frango**#  :chicken:
+# **Strogonof de frango**   :chicken:
 
 
 
@@ -28,7 +28,7 @@ _**Ingredientes**_
 
   
 
-**Modo de Preparo**
+## Modo de Preparo ##
 
 1. Refogue o alho e cebola no óleo .
 
